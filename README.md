@@ -16,4 +16,7 @@ This repository contains static versions of the following libraries:
 
 to be used as a fallback, should Jitpack.io be down.
 
-##### This repository is an implementation of [this suggestion](https://github.com/jitpack/jitpack.io/issues/5337#issuecomment-1363329648).
+------
+
+##### This repository is an implementation of [this suggestion](https://github.com/jitpack/jitpack.io/issues/5337#issuecomment-1363329648) 
+###### (does not contain entire cache, libraries are selectively chosen).

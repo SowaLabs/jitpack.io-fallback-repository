@@ -8,6 +8,11 @@ This repository contains static versions of the following libraries:
 - com.github.wix-playground:reflow-animator
 - javax.annotation:javax.annotation-api
 - javax.inject:javax.inject
+- androidx.annotation:annotation
+- androidx.annotation:annotation-experimental
+- androidx.databinding:databinding-common
+- androidx.databinding:databinding-compiler-common
+- androidx.databinding:viewbinding
 
 to be used as a fallback, should Jitpack.io be down.
 

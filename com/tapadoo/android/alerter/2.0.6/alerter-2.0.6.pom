@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.tapadoo</groupId>
+  <artifactId>alerter</artifactId>
+  <version>2.0.6</version>
+  <packaging>aar</packaging>
+  <name>alerter</name>
+  <description>An Android Alerting Library</description>
+  <url>https://github.com/Tapadoo/Alerter</url>
+  <inceptionYear>2017</inceptionYear>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/licenses/MIT</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>Tapadoo</id>
+      <name></name>
+      <email></email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git://github.com/Tapadoo/Alerter.git</connection>
+    <developerConnection>scm:git://github.com/Tapadoo/Alerter.git</developerConnection>
+    <url>git://github.com/Tapadoo/Alerter.git</url>
+  </scm>
+</project>
